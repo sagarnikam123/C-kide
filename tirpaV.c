@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Tirpa-V		*
-*				*
-****************/
+/*
+
+	Tirpa-V
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

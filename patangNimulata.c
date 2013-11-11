@@ -1,8 +1,8 @@
-/********************
-*					*
-*	Patang-Nimulata	*
-*					*
-********************/
+/*
+
+	Patang-Nimulata
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

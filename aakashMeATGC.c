@@ -1,10 +1,9 @@
-/********************************************************************************
-*																				*
-   Aakash me ATGC - Stars in the sky											*
-*   																			*
-*   NOTE: This may run on only specific machines with specific configurations	*
-*																				*
-********************************************************************************/
+/*
+   Aakash me ATGC - Stars in the sky
+
+   NOTE: This may run on only specific machines with specific configurations
+
+*/
 
 
 #include<stdio.h>

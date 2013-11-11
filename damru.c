@@ -1,8 +1,8 @@
-/************
-*			*
-*	DAMRU	*
-*			*
-************/
+/*
+
+	DAMRU
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

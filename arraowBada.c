@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Arrow Bada	*
-*				*
-****************/
+/*
+
+	Arrow Bada
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

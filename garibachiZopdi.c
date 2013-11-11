@@ -1,8 +1,8 @@
-/********************
-*					*
-*	Garibachi Zopdi	*
-*					*
-********************/
+/*
+
+	Garibachi Zopdi
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

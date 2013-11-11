@@ -1,8 +1,8 @@
-/****************************
-*							*
-*	Blank Triangle - Right	*
-*							*
-****************************/
+/*
+
+	Blank Triangle - Right
+
+*/
 
 
 #include<stdio.h>

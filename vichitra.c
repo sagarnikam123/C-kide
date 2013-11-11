@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Vichitra	*
-*				*
-****************/
+/*
+
+	Vichitra
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

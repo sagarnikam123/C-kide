@@ -1,8 +1,8 @@
-/************
-*			*
-*	MailBox	*
-*			*
-************/
+/*
+
+	MailBox
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

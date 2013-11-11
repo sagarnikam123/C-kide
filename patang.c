@@ -1,8 +1,8 @@
-/************
-*			*
-*	Patang	*
-*			*
-************/
+/*
+
+	Patang
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

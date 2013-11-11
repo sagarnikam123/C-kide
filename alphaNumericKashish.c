@@ -1,8 +1,8 @@
-/****************************************************************************
-*                                                                           *
-*     An interactive program-for printing Alphabets & Numbers on console    *
-*                                                                           *
-****************************************************************************/
+/*
+
+     An interactive program-for printing Alphabets & Numbers on console
+
+*/
 
 
 #include<stdio.h>

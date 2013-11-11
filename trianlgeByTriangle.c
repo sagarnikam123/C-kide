@@ -1,8 +1,8 @@
-/****************************
-*							*
-*	Triangle by Triangle	*
-*							*
-****************************/
+/*
+
+	Triangle by Triangle
+
+*/
 
 #include <stdio.h>
 #include <conio.h>

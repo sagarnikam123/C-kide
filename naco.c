@@ -1,9 +1,9 @@
-/****************************************************
-*													*
-*	NACO											*
-*	National Aids corporation Organisation			*
-*													*
-****************************************************/
+/*
+
+	NACO
+	National Aids corporation Organisation
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

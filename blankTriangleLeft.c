@@ -1,8 +1,8 @@
-/****************************
-* 							*
-*	Blank Triangle- Left	*
-*  							*
-****************************/
+/*
+
+	Blank Triangle- Left
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

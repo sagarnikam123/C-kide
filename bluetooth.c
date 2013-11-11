@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Bluetooh	*
-*				*
-****************/
+/*
+
+	Bluetooth
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

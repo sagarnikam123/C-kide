@@ -1,8 +1,8 @@
-/********************************************************************************
-*																				*
-*	An interactive program showing How ATM transaction done using C-language	*
-*																				*
-********************************************************************************/
+/*
+
+	An interactive program showing How ATM transaction done using C-language
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

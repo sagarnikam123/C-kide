@@ -1,9 +1,9 @@
-/********************
-*					*
-*	Double Blank	*
-*	Triangle Bottom	*
-*					*
-********************/
+/*
+
+	Double Blank
+	Triangle Bottom
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

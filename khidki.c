@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Khidki		*
-*				*
-****************/
+/*
+
+	Khidki
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

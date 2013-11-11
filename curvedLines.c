@@ -1,8 +1,8 @@
-/********************
-*					*
-*	Curved Lines	*
-*					*
-********************/
+/*
+
+	Curved Lines
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

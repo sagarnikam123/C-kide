@@ -1,8 +1,8 @@
-/********************
-*					*
-*	Rait ki Ghadi	*
-*					*
-********************/
+/*
+
+	Rait ki Ghadi
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

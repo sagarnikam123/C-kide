@@ -1,8 +1,8 @@
-/************************
-*						*
-*	Triangle over Slope	*
-*						*
-************************/
+/*
+
+	Triangle over Slope
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

@@ -1,8 +1,8 @@
-/************************
-*						*
-*	Square by Triangle	*
-*						*
-************************/
+/*
+
+	Square by Triangle
+
+*/
 
 #include <stdio.h>
 #include <conio.h>

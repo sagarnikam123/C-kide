@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Lambda		*
-*				*
-****************/
+/*
+
+	Lambda
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

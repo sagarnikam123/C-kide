@@ -1,8 +1,8 @@
-/****************
-*				*
-*	K- Dil se	*
-*				*
-****************/
+/*
+
+	K- Dil se
+
+*/
 
 #include <stdio.h>
 #include <conio.h>

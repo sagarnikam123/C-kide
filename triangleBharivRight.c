@@ -1,8 +1,8 @@
-/****************************
-*							*
-*	Triangle Bhariv- Right	*
-*							*
-****************************/
+/*
+
+	Triangle Bhariv- Right
+
+*/
 
 #include<stdio.h>
 #include<conio.h>

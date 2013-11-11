@@ -1,8 +1,8 @@
-/****************
-*				*
-*	Blank Zopdi	*                            
-*				*
-****************/
+/*
+
+	Blank Zopdi
+
+*/
 
 #include<stdio.h>
 #include<conio.h>
