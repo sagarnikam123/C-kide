@@ -5,16 +5,16 @@
 
 ## Description
 
-> - all programms & codes are developed during M.Sc (Bioinformatics) for the paper, 'Programming in C'  , Semester-II, Year-2010-2011.
-> - all coding done on last corner Windows (Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), University of Pune, Pune.
+- all programms & codes are developed during M.Sc (Bioinformatics) for the paper, 'Programming in C'  , Semester-II, Year-2010-2011.
+- all coding done on last corner Windows (Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), University of Pune, Pune.
 
 
 ## Code Details
 
-> - haramiKaMall-ATM __:__- an interactiv ATM trasaction - funny.
-> - alphNumericKashish __:__- an interactive program  for printing Alphabets & Numbers on console.
-> - aakashMeATGC __:__- stars in the sky. NOTE**:** may run on only specific machines with specific configurations.
-> - Other __:__- all are some imaginary or realistic objects/shapes, printed using starts & some ASCII characters.
+- haramiKaMall-ATM __:__- an interactiv ATM trasaction - funny.
+- alphNumericKashish __:__- an interactive program  for printing Alphabets & Numbers on console.
+- aakashMeATGC __:__- stars in the sky. NOTE**:** may run on only specific machines with specific configurations.
+- Other __:__- all are some imaginary or realistic objects/shapes, printed using starts & some ASCII characters.
 
 
 ## How To
