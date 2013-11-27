@@ -13,7 +13,7 @@
 
 - haramiKaMall-ATM __:__- an interactiv ATM trasaction - funny.
 - alphNumericKashish __:__- an interactive program  for printing Alphabets & Numbers on console.
-- aakashMeATGC __:__- stars in the sky. NOTE**:** may run on only specific machines with specific configurations.
+- aakashMeATGC __:__- stars in the sky. NOTE **:** may run on only specific machines with specific configurations.
 - Other __:__- all are some imaginary or realistic objects/shapes, printed using starts & some ASCII characters.
 
 
