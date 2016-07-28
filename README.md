@@ -36,8 +36,3 @@
 ## License
 
 [Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT "Licence")
-
-
-## Like
-
-[![endorse](https://api.coderwall.com/sagarnikam123/endorsecount.png)](https://coderwall.com/sagarnikam123)
