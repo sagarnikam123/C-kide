@@ -6,9 +6,9 @@
 
 
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 
-main(){
+int main(){
        
 	   int i,j,k;
 
@@ -24,9 +24,11 @@ main(){
 				 } //inner for
             
 			printf("\n");
+
               
         } //outer for
 		
-       getch();
+       //getch();
+	return 0;
        
 } //main
