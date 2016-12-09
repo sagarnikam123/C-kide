@@ -18,7 +18,7 @@
 
 
 ## How To (locally)
-- for windows user, directly open files in [Bloodshed Dev C++](http://www.bloodshed.net/devcpp.html), compile & Run.
+- for windows user,open file in [Dev C++](http://www.bloodshed.net/devcpp.html) / [CodeBlocks](http://www.codeblocks.org/), compile & Run.
 - for Linux user, comment below two line, like
 
 	```C
@@ -39,14 +39,13 @@
 ## How To (with online compiler)
 - Comment below two line, like
 
-	```
+	```c
 	// #include<conio.h>
 	// getch();
 	```
 	
 - simply copy code into IDE , select `C` compiler & click on `Run` button.
-
-- [CodeTable-HackerEarth](https://code.hackerearth.com)
+- [CodeTable](https://code.hackerearth.com)
 - [Codepad](http://codepad.org/)
 - [IDEOne](http://ideone.com/)
 - [Geeksforgeeks-IDE](http://code.geeksforgeeks.org/)
