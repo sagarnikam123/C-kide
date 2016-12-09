@@ -17,7 +17,7 @@
 - Other __:__- all are some imaginary or realistic objects/shapes, printed using starts & some ASCII characters.
 
 
-## How To
+## How To (locally)
 - for windows user, directly open files in [Bloodshed Dev C++](http://www.bloodshed.net/devcpp.html), compile & Run.
 - for Linux user, comment below two line, like
 
@@ -29,9 +29,27 @@
 	compile & run as
 
 	```sh
-	gcc filename.c
-	./a.out
+	gcc -Wall helloWorld.c -o helloWorld
+	./helloWorld	
 	```
+	
+	- `-Wall` enables all compiler’s warning messages (recommended to generate better code)
+	- `-o` to specify output file name. If we do not use this option, then an output file with name a.out is generated.  
+	
+## How To (with online compiler)
+- Comment below two line, like
+
+	```
+	// #include<conio.h>
+	// getch();
+	```
+	
+- simply copy code into IDE , select `C` compiler & click on `Run` button.
+
+- [CodeTable-HackerEarth](https://code.hackerearth.com)
+- [Codepad](http://codepad.org/)
+- [IDEOne](http://ideone.com/)
+- [Geeksforgeeks-IDE](http://code.geeksforgeeks.org/)
 
 ## License
 
