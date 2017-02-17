@@ -1,7 +1,7 @@
 C- kide
 =====
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://www.tldrlegal.com/l/mit)
 
 ### simple kadya (funny programms) in C
 
