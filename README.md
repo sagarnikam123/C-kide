@@ -1,4 +1,7 @@
-# C- kide
+C- kide
+=====
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
 ### simple kadya (funny programms) in C
 
