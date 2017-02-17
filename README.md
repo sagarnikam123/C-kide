@@ -52,7 +52,3 @@ C- kide
 - [Codepad](http://codepad.org/)
 - [IDEOne](http://ideone.com/)
 - [Geeksforgeeks-IDE](http://code.geeksforgeeks.org/)
-
-## License
-
-[Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT "Licence")
